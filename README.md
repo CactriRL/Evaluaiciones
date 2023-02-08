@@ -9,6 +9,6 @@
 <br> <a href="EVALUACION - MAICOL.pdf" download="VALUACION - MAICOL.pdf">MAICOL
 <br> <a href="EVALUACION - RICHARD.pdf" download="EVALUACION - RICHARD.pdf">RICHARD
 <br><br><br>
-<br> <a href="EVALUACION - RICHARD.pdf" download="EVALUACION - RICHARD.pdf">RICHARD
+<br> <a href="EVALUACION - RICHARD.pdf" download="EVALUACION - RICHARD.pdf">Archivos en EXCEL
  
  
