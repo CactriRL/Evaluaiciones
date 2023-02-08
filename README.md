@@ -9,6 +9,6 @@
 <br> <a href="EVALUACION - MAICOL.pdf" download="VALUACION - MAICOL.pdf">MAICOL
 <br> <a href="EVALUACION - RICHARD.pdf" download="EVALUACION - RICHARD.pdf">RICHARD
 <br><br><br>
-<br> <a href="https://cactrirl.github.io/Evaluaiciones/">Archivos en EXCEL</a>
+<br> <a href="https://cactrirl.github.io/EvaluacionesExcel/">Archivos en EXCEL</a>
  
  
