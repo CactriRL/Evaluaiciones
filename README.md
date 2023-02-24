@@ -12,6 +12,4 @@
 <br> <a href="https://cactrirl.github.io/EvaluacionesExcel/">Archivos en EXCEL</a>
  
  <br><br><br>
- <iframe src="https://docs.google.com/gview?url=
-https://github.com/CactriRL/Evaluaiciones/blob/main/EVALUACION%20-%20CARLA%20ARTEAGA.pdf
-&embedded=true" style="width:100%; height:700px;" frameborder="0" ></iframe>
+ <iframe src="https://docs.google.com/gview?url=EVALUACION - CARLA ARTEAGA.pdf&embedded=true" style="width:100%; height:700px;" frameborder="0" ></iframe>
